@@ -1,0 +1,19 @@
+
+
+.pad {
+    padding-right: 1%;
+    border: none;
+}
+
+.footer {
+    padding: 3rem 1.5rem 0rem;
+}
+
+.container {
+    padding-top: 10%;
+}
+
+.noborder {
+    border: none;
+    text-align: center;
+}
